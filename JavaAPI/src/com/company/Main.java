@@ -31,7 +31,7 @@ class Numbers {
     public void sortList() {
         Collections.sort(num);
     }
-
+    /*DinoPromjena1*/
 }
 
 class Words {
