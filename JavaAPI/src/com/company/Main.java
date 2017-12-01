@@ -183,7 +183,7 @@ class WordList {
     public WordList(List<String> wordList) {
         this.wordList = wordList;
     }
-
+    /* Test 1 GIT*/
     public void printOut(){
         for(String word: wordList){
             System.out.printf("%s - %d\n", word, word.length());
